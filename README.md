@@ -7,5 +7,3 @@ Kjo do te gjeneroje databazen per here te pare. Pastaj ristartoje skripten e nje
 Ne nje terminal tjeter shkruaj komanden: json-server --watch db.json
 
 Njesite e perdorura jane: celsius (temperature), perqindje (lageshti relative), dhe lux (drite).
-
-Ne VS Code, kur ta hapni db.json, mund ta formatoni me komanden alt+shift+f.
