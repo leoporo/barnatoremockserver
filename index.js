@@ -1,7 +1,7 @@
 const fs  = require("fs");
 
 if (fs.existsSync("db.json")) {
-    console.log("db.json already exists. Randomizing sensor data...");
+    console.log("Randomizing sensor data...");
     setInterval(randomizeSensorData, 5000);
 }
 else {
